@@ -1,0 +1,40 @@
+[
+  {
+  "city": "Bangalore",
+  "country": "India",
+  "drivingLicenseId": "DL4",
+  "email": "vivek@gmail.com",
+  "firstName": "Vicky",
+  "lastName": "K",
+  "phoneNumber": "9876543210",
+  "preferredLanguage": "English",
+  "province": "Karnataka",
+  "serviceCategory": "CAB",
+  "serviceRange": "INTERCITY",
+  "taxId": "QWERTY1234Z",
+  "vehicleFitnessCertificateId": "FC4",
+  "vehicleInsuranceId": "IN4",
+  "vehiclePermitId": "PR4",
+  "vehicleRegistrationCertificateId": "RC4",
+  "vehicleType": "GO"
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "drivingLicenseId": "DL5",
+    "email": "kings@gmail.com",
+    "firstName": "Kings",
+    "lastName": "T",
+    "phoneNumber": "9876543211",
+    "preferredLanguage": "English",
+    "province": "Karnataka",
+    "serviceCategory": "CAB",
+    "serviceRange": "INTRACITY",
+    "taxId": "QWERTY1234Z",
+    "vehicleFitnessCertificateId": "FC5",
+    "vehicleInsuranceId": "IN5",
+    "vehiclePermitId": "PR5",
+    "vehicleRegistrationCertificateId": "RC5",
+    "vehicleType": "GO"
+  }
+]
