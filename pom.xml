@@ -7,9 +7,9 @@
     </properties>
 
     <parent>
-        <groupId>com.github.sfg-beer-works</groupId>
-        <artifactId>sfg-brewery-bom</artifactId>
-        <version>1.0.17</version>
+        <groupId>com.taxi.partner</groupId>
+        <artifactId>partner-onboard-bom</artifactId>
+        <version>1.0.24-SNAPSHOT</version>
     </parent>
 
     <groupId>com.taxi.partner</groupId>
